@@ -1,0 +1,2 @@
+Hvilken måned ble COVID-19 først identifisert?;true;false;Terning;false;3;Novemember 2019;Januar 2020;Desember 2019;September 2019;false;false
+Hvor mange mager har en ku?;true;false;Terning;false;1;4;5;7;2;false;false
